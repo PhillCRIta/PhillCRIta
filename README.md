@@ -17,4 +17,4 @@ In this period of my live beyond my daily work, I like keep me update on the tec
 
 And last but not least I'm a scuba diver 🐠, is a wonderful activity; the underwater world is very strange 🐟, is fantastic 🐳! 
 
-![DEMO](https://github.com/PhillCRIta/PhillCRIta/blob/main/test5.gif)
+
